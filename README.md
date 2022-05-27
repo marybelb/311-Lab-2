@@ -60,6 +60,7 @@ make changes to satisfy the required clock.
 Implement the following circuit using the modules that you have implemented in Task 1. For
 FFs, you should use one single synchronous reset. You have 5 input ports, i.e. X, Y, Z, S0, S1
 and one output port T.
+
 <img width="686" alt="Screen Shot 2022-05-26 at 8 02 58 PM" src="https://user-images.githubusercontent.com/91172956/170602980-17939fd3-36a1-4637-8828-f5566832aac3.png">
 
 4. FPGA Implementation
